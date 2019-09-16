@@ -12,7 +12,7 @@ let camelCase = function(input) {
     } 
   }
 
-  return textArray.join("")
+  return textArray.join("");
 };
 
 // Tests
